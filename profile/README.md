@@ -101,45 +101,26 @@ A Node CLI and library that pre-generates waveform peaks and BPM from audio file
 
 ## Framework components
 
+One package per framework, with a sub-path per component: `/player`, `/bar`, `/playlist` and `/sounds`. Install only the cores you use.
+
 <table>
 <tr>
-<th></th>
 <th><img src="https://cdn.simpleicons.org/astro/BC52EE" width="20" alt=""><br>Astro</th>
 <th><img src="https://cdn.simpleicons.org/react/61DAFB" width="20" alt=""><br>React</th>
 <th><img src="https://cdn.simpleicons.org/svelte/FF3E00" width="20" alt=""><br>Svelte</th>
 <th><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="20" alt=""><br>Vue</th>
 </tr>
 <tr>
-<td><b>Player</b></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-player-astro">player-astro</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-player-react">player-react</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-player-svelte">player-svelte</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-player-vue">player-vue</a></td>
-</tr>
-<tr>
-<td><b>Bar</b></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-bar-astro">bar-astro</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-bar-react">bar-react</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-bar-svelte">bar-svelte</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-bar-vue">bar-vue</a></td>
-</tr>
-<tr>
-<td><b>Playlist</b></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-playlist-astro">playlist-astro</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-playlist-react">playlist-react</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-playlist-svelte">playlist-svelte</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-playlist-vue">playlist-vue</a></td>
-</tr>
-<tr>
-<td><b>Sounds</b></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-sounds-astro">sounds-astro</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-sounds-react">sounds-react</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-sounds-svelte">sounds-svelte</a></td>
-<td><a href="https://github.com/WaveformPlayer/waveform-sounds-vue">sounds-vue</a></td>
+<td><a href="https://github.com/WaveformPlayer/astro">astro</a><br><sub><a href="https://www.npmjs.com/package/@arraypress/waveform-astro">npm</a></sub></td>
+<td><a href="https://github.com/WaveformPlayer/react">react</a><br><sub><a href="https://www.npmjs.com/package/@arraypress/waveform-react">npm</a></sub></td>
+<td><a href="https://github.com/WaveformPlayer/svelte">svelte</a><br><sub><a href="https://www.npmjs.com/package/@arraypress/waveform-svelte">npm</a></sub></td>
+<td><a href="https://github.com/WaveformPlayer/vue">vue</a><br><sub><a href="https://www.npmjs.com/package/@arraypress/waveform-vue">npm</a></sub></td>
 </tr>
 </table>
 
-Each is on npm as `@arraypress/waveform-<name>`, for example `@arraypress/waveform-bar-react`.
+```js
+import { WaveformPlayer } from '@arraypress/waveform-react/player';
+```
 
 <br>
 
