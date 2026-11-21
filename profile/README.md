@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://waveformplayer.com"><img src="https://raw.githubusercontent.com/WaveformPlayer/assets/main/banner/banner.png" alt="WaveformPlayer — beautiful, zero-dependency audio visualization for the web" width="800"></a>
+  <a href="https://waveformplayer.com"><img src="https://raw.githubusercontent.com/WaveformPlayer/assets/main/banner/banner-wide.png" alt="WaveformPlayer — beautiful, zero-dependency audio visualization for the web" width="100%"></a>
 </p>
 
 <p align="center">
