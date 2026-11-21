@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://waveformplayer.com"><img src="banner.png" alt="WaveformPlayer — beautiful, zero-dependency audio visualization for the web" width="800"></a>
+  <a href="https://waveformplayer.com"><img src="https://raw.githubusercontent.com/WaveformPlayer/assets/main/banner/banner.png" alt="WaveformPlayer — beautiful, zero-dependency audio visualization for the web" width="800"></a>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ Or with npm: `npm install @arraypress/waveform-player`
 
 Every package is published on npm as `@arraypress/<name>`, for example `@arraypress/waveform-bar-react`.
 
-The documentation site lives in [`waveform-docs`](https://github.com/WaveformPlayer/waveform-docs).
+The documentation site lives in [`waveform-docs`](https://github.com/WaveformPlayer/waveform-docs), and the logo, avatar and banner in [`assets`](https://github.com/WaveformPlayer/assets).
 
 ---
 
