@@ -144,5 +144,5 @@ Each is on npm as `@arraypress/waveform-<name>`, for example `@arraypress/wavefo
 <br>
 
 <div align="center">
-<sub>MIT © <a href="https://github.com/arraypress">ArrayPress Limited</a> · <a href="https://github.com/WaveformPlayer/waveform-docs">Docs source</a> · <a href="https://github.com/WaveformPlayer/assets">Brand assets</a></sub>
+<sub>MIT © <a href="https://github.com/arraypress">ArrayPress Limited</a> · <a href="https://github.com/WaveformPlayer/docs">Docs source</a> · <a href="https://github.com/WaveformPlayer/assets">Brand assets</a></sub>
 </div>
