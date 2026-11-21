@@ -49,31 +49,25 @@ new WaveformPlayer('#player', { url: 'track.mp3', title: 'My Song', artist: 'The
 <td width="33%" valign="top">
 
 **[WaveformPlayer](https://github.com/WaveformPlayer/waveform-player)**<br>
-<sub>CORE</sub>
+<sub>CORE · <a href="https://www.npmjs.com/package/@arraypress/waveform-player">npm</a></sub>
 
 Canvas waveform player with six styles, keyboard control and Media Session.
-
-[![npm](https://img.shields.io/npm/v/@arraypress/waveform-player?style=flat-square&label=&labelColor=09090b&color=3f3f46)](https://www.npmjs.com/package/@arraypress/waveform-player)
 
 </td>
 <td width="33%" valign="top">
 
 **[WaveformBar](https://github.com/WaveformPlayer/waveform-bar)**<br>
-<sub>EXTENSION</sub>
+<sub>EXTENSION · <a href="https://www.npmjs.com/package/@arraypress/waveform-bar">npm</a></sub>
 
 A persistent bottom bar: queue, volume, repeat, favourites, cart and cross-page sessions.
-
-[![npm](https://img.shields.io/npm/v/@arraypress/waveform-bar?style=flat-square&label=&labelColor=09090b&color=3f3f46)](https://www.npmjs.com/package/@arraypress/waveform-bar)
 
 </td>
 <td width="33%" valign="top">
 
 **[WaveformPlaylist](https://github.com/WaveformPlayer/waveform-playlist)**<br>
-<sub>EXTENSION</sub>
+<sub>EXTENSION · <a href="https://www.npmjs.com/package/@arraypress/waveform-playlist">npm</a></sub>
 
 Playlists and chapters for podcasts, courses, albums and audiobooks.
-
-[![npm](https://img.shields.io/npm/v/@arraypress/waveform-playlist?style=flat-square&label=&labelColor=09090b&color=3f3f46)](https://www.npmjs.com/package/@arraypress/waveform-playlist)
 
 </td>
 </tr>
@@ -81,31 +75,25 @@ Playlists and chapters for podcasts, courses, albums and audiobooks.
 <td width="33%" valign="top">
 
 **[WaveformSounds](https://github.com/WaveformPlayer/waveform-sounds)**<br>
-<sub>EXTENSION</sub>
+<sub>EXTENSION · <a href="https://www.npmjs.com/package/@arraypress/waveform-sounds">npm</a></sub>
 
 A searchable, filterable sound list for sample packs, with a mini waveform per row.
-
-[![npm](https://img.shields.io/npm/v/@arraypress/waveform-sounds?style=flat-square&label=&labelColor=09090b&color=3f3f46)](https://www.npmjs.com/package/@arraypress/waveform-sounds)
 
 </td>
 <td width="33%" valign="top">
 
 **[WaveformTracker](https://github.com/WaveformPlayer/waveform-tracker)**<br>
-<sub>EXTENSION</sub>
+<sub>EXTENSION · <a href="https://www.npmjs.com/package/@arraypress/waveform-tracker">npm</a></sub>
 
 Privacy-first listen analytics that count real listening time. No cookies.
-
-[![npm](https://img.shields.io/npm/v/@arraypress/waveform-tracker?style=flat-square&label=&labelColor=09090b&color=3f3f46)](https://www.npmjs.com/package/@arraypress/waveform-tracker)
 
 </td>
 <td width="33%" valign="top">
 
 **[WaveformGen](https://github.com/WaveformPlayer/waveform-gen)**<br>
-<sub>TOOLING</sub>
+<sub>TOOLING · <a href="https://www.npmjs.com/package/@arraypress/waveform-gen">npm</a></sub>
 
 A Node CLI and library that pre-generates waveform peaks and BPM from audio files.
-
-[![npm](https://img.shields.io/npm/v/@arraypress/waveform-gen?style=flat-square&label=&labelColor=09090b&color=3f3f46)](https://www.npmjs.com/package/@arraypress/waveform-gen)
 
 </td>
 </tr>
